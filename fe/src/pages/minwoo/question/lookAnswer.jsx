@@ -185,7 +185,7 @@ const LookAnswer = () => {
         </User>
 
         <MainContent>
-          오른쪽 그림처럼 길게 파인 곳에 카드를 넣으면 결제가 돼요!
+          오른쪽 그림처럼 길게 파인 곳넣으면 결제가 돼요!
         </MainContent>
 
         <MainImg></MainImg>
